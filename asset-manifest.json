@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swim-book/static/css/main.b100e6da.chunk.css",
+    "main.js": "/swim-book/static/js/main.18003635.chunk.js",
+    "main.js.map": "/swim-book/static/js/main.18003635.chunk.js.map",
+    "runtime-main.js": "/swim-book/static/js/runtime-main.cae86a4e.js",
+    "runtime-main.js.map": "/swim-book/static/js/runtime-main.cae86a4e.js.map",
+    "static/js/2.7c8dd022.chunk.js": "/swim-book/static/js/2.7c8dd022.chunk.js",
+    "static/js/2.7c8dd022.chunk.js.map": "/swim-book/static/js/2.7c8dd022.chunk.js.map",
+    "index.html": "/swim-book/index.html",
+    "precache-manifest.a96cd0362fb1d1d5eb58561138db4cb7.js": "/swim-book/precache-manifest.a96cd0362fb1d1d5eb58561138db4cb7.js",
+    "service-worker.js": "/swim-book/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/swim-book/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/swim-book/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cae86a4e.js",
+    "static/js/2.7c8dd022.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.18003635.chunk.js"
+  ]
+}
